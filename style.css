@@ -17,14 +17,13 @@ body {
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
-/* Stopwatch time */
 #display {
   font-size: 36px;
   margin: 20px 0;
   color: #e9f5db;   /* stopwatch color */
 }
 
-/* Buttons */
+
 .buttons button,
 .lap-section button {
   padding: 8px 14px;
@@ -55,3 +54,4 @@ body {
   margin: 4px 0;
   color: #e9f5db;   /* lap text */
 }
+
